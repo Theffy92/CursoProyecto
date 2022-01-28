@@ -1,0 +1,39 @@
+librería online - Horror Bookstore
+Alumna: Elena Estefania Reyes
+
+
+Utilicé el plugin iThemes Security para gestionar las capacidades de cada usuario
+dentro de la tienda.
+
+Admin
+User: Estefania
+Contraseña: El_bOok.92
+Puede acceder a todo lo referente a la tienda. Permiso para crear nuevos paneles de
+seguridad.
+
+Gerente de tienda:
+User: Tomas
+Contraseña: hOla.93!_
+El gerente de tienda se encarga de la gestión de la tienda.
+
+Cliente:
+User: Alicia
+Contraseña: en_Trepeneur.89
+
+El cliente tiene no tiene permisos en el panel de seguridad ya que le delegó
+completamente esto a los administrador y gestor de la tienda.
+
+Plugin Keyy Login para la seguridad de la cuenta, si pasa un tiempo que no estás utilizando
+la cuenta, este plugin te cierra la sesión automáticamente para más seguridad.Por lo 
+cuál deberías loggearte otra vez a través de la funcionalidad de este plugin.
+
+ventas cruzadas en varios libros como Desesperación, Posesión.
+Tambien apliqué venta
+agrupada en estos libros.
+
+producto variable It-Stephen King.
+
+Plugins de seguridad:
+
+Keyy Login: cada que pase mucho tiempo desde que te conectaste, el sitio se 
+desconectará de tu cuenta automaticamente para más seguridad de tus datos y cuenta.
